@@ -12,6 +12,7 @@
   <tbody>
     <% @kittens.each do |kitten| %>
       <tr>
+        <td><%= kitten.name %> | <%= kitten.age %> | <%= kitten.cuteness %> | <%= kitten.softness %></td>
         <td><%= link_to 'Show', kitten %></td>
         <td><%= link_to 'Edit', edit_kitten_path(kitten) %></td>
         <td><%= link_to 'Destroy', kitten, method: :delete, data: { confirm: 'Are you sure?' } %></td>
