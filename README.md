@@ -1,24 +1,49 @@
-# README
+# Kittens API
+Project from The Odin Project to create a simple API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Built
+- Ruby on rails
+- VSCode
+- Ruby
 
-Things you may want to cover:
+# Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Ruby version
+- Clone the project unto your local machine
+- Run 'bundle install', 'rails db:migrate' and 'rails db:seed'
+- Run the server with 'rails server'
+- Open your browser and type 'localhost:3000'
 
-* System dependencies
+# Prerequisites
+- Get the latest version of Ruby
 
-* Configuration
+# Author
 
-* Database creation
+👤 Javier Oriol Correas Sanchez Cuesta
 
-* Database initialization
+- Github: [@javitocor](https://github.com/javitocor)
+- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- Linkedin: [Javier Oriol Correas Sanchez-Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
 
-* How to run the test suite
+# 🤝 Contributing
+Contributions, issues and feature requests are welcome! Start by:
 
-* Services (job queues, cache servers, search engines, etc.)
+- Forking the project.
+- Cloning the project to your local machine.
+- cd into the project directory.
+- Run git checkout -b your-branch-name.
+- Make your contributions.
+- Push your branch up to your forked repository.
+- Open a Pull Request with a detailed description to the development branch of the original project for a review.
 
-* Deployment instructions
+# Attributions and Credit 🚀
+- The Odin Project 
 
-* ...
+# Show your support
+Give a ⭐️ if you like this project!
+
+📝 License
+
+Check out my stories on medium to see what I'm talking about! Follow me on Instagram and Twitter to see what I am up to!
+
+Enjoy!
