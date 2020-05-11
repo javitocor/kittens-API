@@ -1,5 +1,5 @@
 # Kittens API
-Project from The Odin Project to create a simple API
+Project from The Odin Project to create a simple toy-app API
 
 # Built
 - Ruby on rails
